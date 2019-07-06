@@ -7,8 +7,8 @@ Basis for the analysis are two datasets. One contains disaster messages, whereas
 ## Table of Contents
 
 1. [File Descriptions](#file-descriptions)
-2. [Code Descriptions](#code-description)
-3. [Licensing, Authors, and Acknowledgments](#licensing,-authors,-and-acknowledgments)
+2. [Code Descriptions](#code-descriptions)
+3. [Licensing, Authors, and Acknowledgments](#licensing)
 
 ## File Descriptions
 
@@ -73,7 +73,7 @@ The project is structured as follows:
   - `train_classifier.py` - The NLP and ML pipeline.
 
 
-## Licensing, Authors, and Acknowledgments
+## Licensing
 
 For some code examples, especially the Flask web app, credit goes to Udacity. Otherwise, feel free to use the code as you like.
 
