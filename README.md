@@ -72,6 +72,9 @@ The project is structured as follows:
 - `models/`
   - `train_classifier.py` - The NLP and ML pipeline.
 
+## Further Improvements
+
+Although the model in use already gives quite good results there is definitely room for improvement. According to literature LSTM (Long short-term memory) models give state-of-the-art results for NLP like the one given. Consequently, it seems promising to further look into this by e.g. using Keras (Tensorflow) solutions.
 
 ## Licensing
 
