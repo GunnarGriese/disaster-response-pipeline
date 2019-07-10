@@ -4,6 +4,9 @@ This project showcases data engineering skills gained as part of the Data Scienc
 
 Basis for the analysis are two datasets. One contains disaster messages, whereas the second accounts for their respective response labels (36 in total). A data preprocessing pipeline is build that stores cleaned data in a SQLite database. A machine learning pipeline takes the cleaned data as an input to train a model classifying the messages. A Flask web app uses the pre-trained classifier allowing to predict in which response category the message is likelier to belong and providing visualisations of the data. This will help organizations to reduce potential reaction time.
 
+<img src='media/app.gif' width="800" height="500" />
+<br>
+
 ## Table of Contents
 
 1. [File Descriptions](#file-descriptions)
