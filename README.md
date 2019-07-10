@@ -24,7 +24,7 @@ The project is structured as follows:
 	* Saves cleaned dataframe to pre-defined database.
 	
 		**Usage:**  
-            When in 'data' directory specify the file paths of the two datasets you want to analyze as first and second argument. The third argument specifies the database name that will be stored in the respective folder. For further information execute `python process_data.py --help`. Exemplary execution:  
+            When in `data` directory specify the file paths of the two datasets you want to analyze as first and second argument. The third argument specifies the database name that will be stored in the respective folder. For further information execute `python process_data.py --help`. Exemplary execution:  
 
 			python process_data.py -m disaster_messages.csv -c disaster_categories.csv -d DisasterResponse
 
